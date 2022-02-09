@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anurag10-1
-- 👀 I’m interested in ...python javascript
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ...python c++
+- 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 3128.anurag@gmail.com
 
